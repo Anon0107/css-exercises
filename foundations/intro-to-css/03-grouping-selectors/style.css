@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.click, .noclick{
+    font-size: 30px;
+}
+.click{
+    color: white;
+    background-color: black;
+}
+
+.noclick{
+    background-color: yellow;
+}

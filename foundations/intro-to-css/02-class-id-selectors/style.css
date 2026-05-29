@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.pink{
+    background-color: pink;
+    font-size: 20px;
+    font-family: Arial;
+
+}
+.big{
+    font-size: 32px;
+}
+
+#blue{
+    font-size: 44px;
+    color: blue;
+    font-weight: 500;
+}
+
+#green{
+    font-size: 32px;
+    font-weight: 700;
+    background-color: lime;
+}
